@@ -27,4 +27,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PACKAGES += \
     nfc_nci.g2 \
     NfcNci
-
