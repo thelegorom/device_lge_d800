@@ -1,14 +1,26 @@
 [
  {
-   "remote": "ls",
-   "repository": "android_device_lge_g2-common",
+   "remote": "gh",
+   "repository": "thelegorom/android_device_lge_g2-common",
    "target_path": "device/lge/g2-common",
-   "revision": "kitkat"
+   "revision": "lego"
  },
  {
    "remote": "gh",
-   "repository": "IllusionRom/android_kernel_lge_msm8974",
+   "repository": "Liquid-G2/deathly_g2_kernel",
    "target_path": "kernel/lge/msm8974",
-   "revision": "illusion-4.4"
+   "revision": "kitkat"
+ },
+ {
+   "remote": "cm",
+   "repository": "android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "revision": "cm-11.0"
+ },
+ {
+   "remote": "gh",
+   "repository": "dr87/4.4_g2-vendor",
+   "target_path": "vendor/lge",
+   "revision": "master"
  }
 ]
