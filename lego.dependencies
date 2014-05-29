@@ -1,13 +1,13 @@
 [
  {
    "remote": "gh",
-   "repository": "thelegorom/android_device_lge_g2-common",
+   "repository": "Liquid-G2/android_device_lge_g2-common",
    "target_path": "device/lge/g2-common",
-   "revision": "lego"
+   "revision": "kitkat"
  },
  {
    "remote": "gh",
-   "repository": "Liquid-G2/deathly_g2_kernel",
+   "repository": "Deathly-Experience/deathly_g2_kernel",
    "target_path": "kernel/lge/msm8974",
    "revision": "kitkat"
  },
@@ -19,8 +19,8 @@
  },
  {
    "remote": "gh",
-   "repository": "dr87/4.4_g2-vendor",
+   "repository": "Liquid-G2/android_vendor_lge_g2",
    "target_path": "vendor/lge",
-   "revision": "master"
+   "revision": "kitkat"
  }
 ]
